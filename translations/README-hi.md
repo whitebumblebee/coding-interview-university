@@ -5,6 +5,43 @@
 >
 >आपको शुभकामनाएं!
 
+<div align="center">
+	<hr />
+    <p>
+        <a href="https://github.com/sponsors/jwasham"><strong>Become a sponsor</strong> and support Coding Interview University!</a>
+    </p>
+    <p>
+        <strong>Special thanks to:</strong>
+    </p>
+    <p>
+        <a href="https://oss.capital/">
+            <div>
+                <img src="https://d3j2pkmjtin6ou.cloudfront.net/sponsors/oss-capital.svg" width="350" alt="OSS Capital">
+            </div>
+            <div>
+                <sup><strong>Founded in 2018, OSS Capital is the first and only venture capital platform focused<br>exclusively on supporting early-stage COSS (commercial open source) startup founders.</strong></sup>
+            </div>
+        </a>
+    </p>
+    <br />
+    <p>
+        <a href="https://www.gitpod.io/?utm_campaign=jwasham&utm_medium=referral&utm_content=coding-interview-university&utm_source=github">
+            <div>
+                <img src="https://d3j2pkmjtin6ou.cloudfront.net/sponsors/gitpod-logo-light-theme.svg" width="300" alt="Gitpod">
+            </div>
+            <div>
+                <p>
+                    <strong>Dev environments built for the cloud</strong>
+                </p>
+            </div>
+            <div>
+                <sup>Natively integrated with GitLab, GitHub, and Bitbucket, Gitpod automatically and continuously prebuilds dev environments for all your branches. As a result team members can instantly start coding with fresh dev environments for each new task - no matter if you are building a new feature, want to fix a bug, or work on a code review.</sup>
+            </div>
+        </a>
+    </p>
+    <hr />
+</div>
+
 ## यह क्या है?
 यह एक बड़ी कंपनी के लिए सॉफ्टवेयर इंजीनियर को वेब डेवलपर (स्वयं सिखाया, कोई सीएस डिग्री नहीं) से जाने के लिए मेरी बहु-महीने की अध्ययन योजना है
 
@@ -312,8 +349,8 @@ memory" का एरर न दे, और तब मुझे कोई वै
 
 अपना खुद का मुफ्त बनाएं:
  - [फ़्लैशकार्ड साइट रेपो] (https://github.com/jwasham/computer-science-flash-cards)
- - [मेरे फ़्लैश कार्ड डेटाबेस (पुराने - 1200 कार्ड) :](https://github.com/jwasham/computer-science-flash-cards/blob/master/cards-jwasham.db)
- - [मेरा फ़्लैश कार्ड डेटाबेस (नया - 1800 कार्ड) :](https://github.com/jwasham/computer-science-flash-cards/blob/master/cards-jwasham-extreme.db)
+ - [मेरे फ़्लैश कार्ड डेटाबेस (पुराने - 1200 कार्ड) :](https://github.com/jwasham/computer-science-flash-cards/blob/main/cards-jwasham.db)
+ - [मेरा फ़्लैश कार्ड डेटाबेस (नया - 1800 कार्ड) :](https://github.com/jwasham/computer-science-flash-cards/blob/main/cards-jwasham-extreme.db)
 
 ध्यान रखें मैं जहाज़ के ऊपर गया और विधानसभा भाषा और पायथन तुल्यता से लेकर मशीन सीखने और आंकड़ों तक सब कुछ कवर करने वाले कार्ड हैं। इसकी आवश्यकता के लिए यह बहुत अधिक है
 
@@ -548,7 +585,7 @@ memory" का एरर न दे, और तब मुझे कोई वै
         - binary search using recursion
 
 - ### Bitwise operations
-    - [ ] [Bits cheat sheet](https://github.com/jwasham/coding-interview-university/blob/master/extras/cheat%20sheets/bits-cheat-sheet.pdf) - you should know many of the powers of 2 from (2^1 to 2^16 and 2^32)
+    - [ ] [Bits cheat sheet](https://github.com/jwasham/coding-interview-university/blob/main/extras/cheat%20sheets/bits-cheat-sheet.pdf) - you should know many of the powers of 2 from (2^1 to 2^16 and 2^32)
     - [ ] Get a really good understanding of manipulating bits with: &, |, ^, ~, >>, <<
         - [ ] [words](https://en.wikipedia.org/wiki/Word_(computer_architecture))
         - [ ] Good intro:
@@ -577,7 +614,6 @@ memory" का एरर न दे, और तब मुझे कोई वै
 ## Trees
 
 - ### Trees - Notes & Background
-    - [ ] [Series: Core Trees (विडियो)](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/ovovP/core-trees)
     - [ ] [Series: Trees (विडियो)](https://www.coursera.org/learn/data-structures/lecture/95qda/trees)
     - basic tree construction
     - traversal
@@ -900,7 +936,7 @@ You'll get more graph practice in Skiena's book (see Books section below) and th
     - when it is appropriate to use it
     - how is tail recursion better than not?
         - [ ] [What Is Tail Recursion Why Is It So Bad?](https://www.quora.com/What-is-tail-recursion-Why-is-it-so-bad)
-        - [ ] [Tail Recursion (विडियो)](https://www.youtube.com/watch?v=L1jjXGfxozc)
+        - [ ] [Tail Recursion (विडियो)](https://www.coursera.org/lecture/programming-languages/tail-recursion-YZic1)
  
 - ### Dynamic Programming
     - This subject can be pretty difficult, as each DP soluble problem must be defined as a recursion relation, and coming up with it can be tricky.
@@ -1121,7 +1157,7 @@ You'll get more graph practice in Skiena's book (see Books section below) and th
         - For even more, see "Mining Massive Datasets" video series in the Video Series section.
     - [ ] Practicing the system design process: Here are some ideas to try working through on paper, each with some documentation on how it was handled in the real world:
         - review: [System Design from HiredInTech](http://www.hiredintech.com/system-design/)
-        - [cheat sheet](https://github.com/jwasham/coding-interview-university/blob/master/extras/cheat%20sheets/system-design.pdf)
+        - [cheat sheet](https://github.com/jwasham/coding-interview-university/blob/main/extras/cheat%20sheets/system-design.pdf)
         - flow:
             1. Understand the problem and scope:
                 - define the use cases, with interviewer's help
@@ -1375,7 +1411,7 @@ Take coding challenges every day, as many as you can.
     - [हैकररैंक](https://www.hackerrank.com/)
     - [कोदिलिटी](https://codility.com/programmers/)
     - [इंटरव्यूकेक](https://www.interviewcake.com/)
-    - [इंटरव्यूबिट](https://www.interviewbit.com/invite/icjf)
+    - [इंटरव्यूबिट](https://www.interviewbit.com)
 
     - [प्रोग्रामिंग लैंग्वेज में सुधार करने के लिए](http://exercism.io/languages)
 
@@ -1669,7 +1705,7 @@ Sit back and enjoy. "netflix and skill" :P
 
 - [ ] [कंप्यूटर विज्ञान ७०, ००१ – वसंत २०१५ - Discrete Mathematics and Probability Theory](https://www.youtube.com/playlist?list=PL-XXv-cvA_iD8wQm8U0gG_Z1uHjImKXFy)
 
-- [ ] [Discrete Mathematics (१९ विडियो)](https://www.youtube.com/playlist?list=PL3o9D4Dl2FJ9q0_gtFXPh_H4POI5dK0yG)
+- [ ] [Discrete Mathematics (१९ विडियो)](https://www.youtube.com/playlist?list=PLWX710qNZo_sNlSWRMVIh6kfTjolNaZ8t)
 
 - [ ] CSE373 - एल्गोरिदम का विश्लेषण (२५ विडियो)
     - [एल्गोरिथ्म डिजाइन मैनुअल से Skiena व्याख्यान](https://www.youtube.com/watch?v=ZFjhkohHdAA&list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b&index=1)
@@ -1714,7 +1750,7 @@ Sit back and enjoy. "netflix and skill" :P
 
 ## शायद
 
-http://www.gainlo.co/ - बड़ी कंपनी के मोक इंटरव्यू
+http://www.gainlo.co/#!/ - बड़ी कंपनी के मोक इंटरव्यू
 
 ---
 
