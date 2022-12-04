@@ -55,32 +55,24 @@
     <p>
         <strong>Special thanks to:</strong>
     </p>
-    <p>
-        <a href="https://oss.capital/">
+    <div>
+        <a href="https://algo.monster/?utm_campaign=jwasham&utm_medium=referral&utm_content=coding-interview-university&utm_source=github">
             <div>
-                <img src="https://d3j2pkmjtin6ou.cloudfront.net/sponsors/oss-capital.svg" width="350" alt="OSS Capital">
-            </div>
-            <div>
-                <sup><strong>Founded in 2018, OSS Capital is the first and only venture capital platform focused<br>exclusively on supporting early-stage COSS (commercial open source) startup founders.</strong></sup>
-            </div>
-        </a>
-    </p>
-    <br />
-    <p>
-        <a href="https://www.gitpod.io/?utm_campaign=jwasham&utm_medium=referral&utm_content=coding-interview-university&utm_source=github">
-            <div>
-                <img src="https://d3j2pkmjtin6ou.cloudfront.net/sponsors/gitpod-logo-light-theme.svg" width="300" alt="Gitpod">
+                <img src="https://d3j2pkmjtin6ou.cloudfront.net/sponsors/algo-monster.png" width="300" alt="AlgoMonster">
             </div>
             <div>
                 <p>
-                    <strong>Dev environments built for the cloud</strong>
+                    <strong>Master the technical interview without endless grinding.</strong>
                 </p>
             </div>
             <div>
-                <sup>Natively integrated with GitLab, GitHub, and Bitbucket, Gitpod automatically and continuously prebuilds dev environments for all your branches. As a result team members can instantly start coding with fresh dev environments for each new task - no matter if you are building a new feature, want to fix a bug, or work on a code review.</sup>
+                <sup>Created by ex-Google engineers, AlgoMonster will help you crush the technical interview in less time 
+                and with fewer sleepless nights grinding away random problems. You will learn the key patterns necessary to solve 
+                any interview question and gain the systematic knowledge you need to prove your expertise. Be more confident 
+                as you walk into that interview!</sup>
             </div>
         </a>
-    </p>
+    </div>
     <hr />
 </div>
 
@@ -1163,7 +1155,7 @@
 
 -   [ ] Серия от 2-3 минутни кратки клипове по различни теми (23 клипа)
     -   [Клипове](https://www.youtube.com/watch?v=r4r1DZcx1cM&list=PLmVb1OknmNJuC5POdcDv5oCS7_OUkDgpj&index=22)
--   [ ] Серия от 2-5 минутни кратки клипове по различни теми - Michael Sambol (18 клипа):
+-   [ ] Серия от 2-5 минутни кратки клипове по различни теми - Michael Sambol (38 клипа):
     -   [Клипове](https://www.youtube.com/channel/UCzDJwLWoYCUQowF_nG3m5OQ)
 -   [ ] [Sedgewick Videos - Алгоритми I](https://www.coursera.org/learn/algorithms-part1)
 -   [ ] [Sedgewick Videos - Алгоритми II](https://www.coursera.org/learn/algorithms-part2)
@@ -1463,9 +1455,10 @@ Mock интервюта:
             -   [Emacs ръководство (За начинаещи) -Част 1- файлови команди, cut/copy/paste, cursor команди](https://www.youtube.com/watch?v=ujODL7MD04Q)
             -   [Emacs ръководство (За начинаещи) -Част 2- Управление на буфера, търсене, M-x grep и rgrep режими](https://www.youtube.com/watch?v=XWpsRupJ4II)
             -   [Emacs въководство (За начинаещи) -Част 3- Изрази, Твърдения, ~/.emacs файлове и пакети](https://www.youtube.com/watch?v=paSgzPso-yc)
-        -   [Зъл режиим: Или как се научих да спра да се тревожа и да заобичам Emacs (клип)](https://www.youtube.com/watch?v=JWD1Fpdd4Pc)
+        -   [Зъл режим(Evil mode): Или как се научих да спра да се тревожа и да заобичам Emacs (клип)](https://www.youtube.com/watch?v=JWD1Fpdd4Pc)
         -   [Писане на C програми с Emacs](http://www.cs.yale.edu/homes/aspnes/classes/223/notes.html#Writing_C_programs_with_Emacs)
-        -   [(по желание) Org режима в подробности: Управление на структурата (клип)](https://www.youtube.com/watch?v=nsGYet02bEk)
+	- [Emacs-Наръчник за начинаещи (видео от David Wilson)](https://www.youtube.com/watch?v=48JlgiBpw_I&t=0s)
+	- [Emacs-Наръчник за начинаещи (записки на David Wilson)](https://systemcrafters.net/emacs-essentials/absolute-beginners-guide-to-emacs/)
 
 -   ### Unix command line tools
 
@@ -1715,9 +1708,8 @@ Mock интервюта:
 
 -   ### k-D Trees
 
-    -   Great for finding number of points in a rectangle or higher dimension object
-    -   A good fit for k-nearest neighbors
-    -   [Kd Trees (video)](https://www.youtube.com/watch?v=W94M9D_yXKk)
+    -   Подходящи за намиране на брой точки в квадратен или по-висш по размерност обект
+    -   Подходящи за к-ти близки съседи
     -   [kNN K-d tree algorithm (video)](https://www.youtube.com/watch?v=Y4ZgLlDfKDg)
 
 -   ### Skip lists
@@ -1784,7 +1776,6 @@ Mock интервюта:
         -   [Google's Deep Learning Nanodegree](https://www.udacity.com/course/deep-learning--ud730)
         -   [Google/Kaggle Machine Learning Engineer Nanodegree](https://www.udacity.com/course/machine-learning-engineer-nanodegree-by-google--nd009)
         -   [Self-Driving Car Engineer Nanodegree](https://www.udacity.com/drive)
-        -   [Metis Online Course ($99 for 2 months)](http://www.thisismetis.com/explore-data-science)
     -   Resources:
         -   Books:
             -   [Python Machine Learning](https://www.amazon.com/Python-Machine-Learning-Sebastian-Raschka/dp/1783555130/)

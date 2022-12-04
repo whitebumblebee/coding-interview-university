@@ -10,32 +10,24 @@ Versi asli: [Bahasa Inggris](../README.md)
     <p>
         <strong>Special thanks to:</strong>
     </p>
-    <p>
-        <a href="https://oss.capital/">
+    <div>
+        <a href="https://algo.monster/?utm_campaign=jwasham&utm_medium=referral&utm_content=coding-interview-university&utm_source=github">
             <div>
-                <img src="https://d3j2pkmjtin6ou.cloudfront.net/sponsors/oss-capital.svg" width="350" alt="OSS Capital">
-            </div>
-            <div>
-                <sup><strong>Founded in 2018, OSS Capital is the first and only venture capital platform focused<br>exclusively on supporting early-stage COSS (commercial open source) startup founders.</strong></sup>
-            </div>
-        </a>
-    </p>
-    <br />
-    <p>
-        <a href="https://www.gitpod.io/?utm_campaign=jwasham&utm_medium=referral&utm_content=coding-interview-university&utm_source=github">
-            <div>
-                <img src="https://d3j2pkmjtin6ou.cloudfront.net/sponsors/gitpod-logo-light-theme.svg" width="300" alt="Gitpod">
+                <img src="https://d3j2pkmjtin6ou.cloudfront.net/sponsors/algo-monster.png" width="300" alt="AlgoMonster">
             </div>
             <div>
                 <p>
-                    <strong>Dev environments built for the cloud</strong>
+                    <strong>Master the technical interview without endless grinding.</strong>
                 </p>
             </div>
             <div>
-                <sup>Natively integrated with GitLab, GitHub, and Bitbucket, Gitpod automatically and continuously prebuilds dev environments for all your branches. As a result team members can instantly start coding with fresh dev environments for each new task - no matter if you are building a new feature, want to fix a bug, or work on a code review.</sup>
+                <sup>Created by ex-Google engineers, AlgoMonster will help you crush the technical interview in less time 
+                and with fewer sleepless nights grinding away random problems. You will learn the key patterns necessary to solve 
+                any interview question and gain the systematic knowledge you need to prove your expertise. Be more confident 
+                as you walk into that interview!</sup>
             </div>
         </a>
-    </p>
+    </div>
     <hr />
 </div>
 
@@ -493,8 +485,8 @@ Menulis kode pada papan tulis atau kertas, bukan komputer. Uji dengan beberapa s
         - [ ] push(item)
         - [ ] insert(index, item) - menyisipkan item pada indeks, menggeser nilai indeks dan elemen tambahan ke kanan
         - [ ] prepend(item) - dapat menggunakan sisipan di atas pada indeks 0
-        - [ ] pop() - hapus dari akhir, nilai kembali
-        - [ ] delete(index) - hapus item pada indeks, menggeser semua elemen tertinggal ke kiri
+        - [ ] pop() - menghapus item dari akhir, nilai kembali
+        - [ ] delete(index) - menghapus item pada indeks, menggeser semua elemen tertinggal ke kiri
         - [ ] remove(item) - mencari nilai dan menghapus indeks yang menahannya (meskipun di banyak tempat)
         - [ ] find(item) - mencari nilai dan mengembalikan indeks pertama dengan nilai itu, -1 jika tidak ditemukan
         - [ ] resize(new_capacity) // fungsi pribadi
@@ -701,7 +693,7 @@ Menulis kode pada papan tulis atau kertas, bukan komputer. Uji dengan beberapa s
     - [ ] [Linear Time BuildHeap (max-heap)](https://www.youtube.com/watch?v=MiyLo8adrWw)
     - [ ] Menerapkan sebuah max-heap:
         - [ ] insert
-        - [ ] sift_up - dibutuhkan untuk memasukkan
+        - [ ] sift_up - digunakan untuk memasukkan
         - [ ] get_max - mengembalikan item maksimal, tanpa menghapusnya
         - [ ] get_size() - mengembalikan jumlah elemen yang disimpan
         - [ ] is_empty() - mengembalikan nilai true jika heap tidak berisi elemen
@@ -1209,7 +1201,7 @@ Graf (Graphs) dapat digunakan untuk merepresentasikan banyak masalah dalam ilmu 
 
 - [ ] Seri video subjek pendek berdurasi 2-3 menit (23 video)
     - [Video](https://www.youtube.com/watch?v=r4r1DZcx1cM&list=PLmVb1OknmNJuC5POdcDv5oCS7_OUkDgpj&index=22)
-- [ ] Seri video subjek pendek berdurasi 2-5 menit - Michael Sambol (18 video):
+- [ ] Seri video subjek pendek berdurasi 2-5 menit - Michael Sambol (38 video):
     - [Video](https://www.youtube.com/channel/UCzDJwLWoYCUQowF_nG3m5OQ)
 - [ ] [Video Sedgewick - Algoritma I](https://www.coursera.org/learn/algorithms-part1)
 - [ ] [Video Sedgewick - Algoritma II](https://www.coursera.org/learn/algorithms-part2)
@@ -1244,7 +1236,6 @@ Tambahan:
 - [Matematika untuk Topcoders](https://www.topcoder.com/community/competitive-programming/tutorials/mathematics-for-topcoders/)
 - [Pemrograman Dinamis - Dari Pemula hingga Mahir](https://www.topcoder.com/community/competitive-programming/tutorials/dynamic-programming-from-novice-to-advanced/)
 - [Materi Wawancara MIT](https://web.archive.org/web/20160906124824/http://courses.csail.mit.edu/iap/interview/materials.php)
-- [Latihan untuk menjadi lebih baik pada bahasa tertentu](http://exercism.io/languages)
 
 **Baca dan Lakukan Masalah Pemrograman (dalam urutan ini):**
 
@@ -1718,7 +1709,10 @@ Anda tidak pernah benar-benar selesai.
     - [Bagilah & Taklukkan: Convex Hull, Median Finding](https://www.youtube.com/watch?v=EzeYI7p9MjU&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp&index=2)
 
 - ### Matematika diskrit
-    - lihat video di bawah ini
+    - Apa itu Matematika Diskrit?
+        - [Perkenalan Matematika Diskrit](https://www.youtube.com/watch?v=p2b2Vb-cYCs)
+    - Kuliah Gratis Matematika Diskrit
+        - [Kuliah Gratis Matematika Diskrit *CS 70: Discrete Mathematics and Probability Theory (Spring 2015, UC Berkeley)*()](http://www.infocobuild.com/education/audio-video-courses/computer-science/CS70-Spring2015-Berkeley/lecture-01.html)
 
 - ### Pembelajaran Mesin (Machine Learning)
     - Kenapa ML?
@@ -1952,3 +1946,4 @@ Terjemahan Bahasa Indonesia dipersembahkan oleh
 - @[hwhung0111](https://github.com/hwhung0111)
 - @[fahminlb33](https://github.com/fahminlb33)
 - @[davidsetyanugraha](https://github.com/davidsetyanugraha)
+- @[afrizal0](https://github.com/afrizal0)
