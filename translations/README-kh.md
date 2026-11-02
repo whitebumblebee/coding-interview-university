@@ -17,42 +17,42 @@
 <details>
 <summary>ការបកប្រែ៖</summary>
 
-- [ភាសារចិន - 中文版本](translations/README-cn.md)
-- [ភាសារវៀតណាម - Tiếng Việt - Vietnamese](translations/README-vi.md)
-- [ភាសារអេស្ប៉ាញ - Español](translations/README-es.md)
-- [ភាសារព័រទុយហ្កាល់ - Português Brasileiro](translations/README-ptbr.md)
-- [ភាសារប៉ូឡូញ - Polish](translations/README-pl.md)
-
+- [Bahasa Indonesia](translations/README-id.md)
+- [Bulgarian](translations/README-bg.md)
+- [Español](translations/README-es.md)
+- [German](translations/README-de.md)
+- [Japanese (日本語)](translations/README-ja.md)
+- [Polish](translations/README-pl.md)
+- [Português Brasileiro](translations/README-ptbr.md)
+- [Russian](translations/README-ru.md)
+- [Tiếng Việt - Vietnamese](translations/README-vi.md)
+- [Urdu - اردو](tanslations/README-ur.md)
+- [Uzbek](translations/README-uz.md)
+- [বাংলা - Bangla](translations/README-bn.md)
+- [ខ្មែរ - Khmer](translations/README-kh.md)
+- [简体中文](translations/README-cn.md)
+- [繁體中文](translations/README-tw.md)
 </details>
 
 <details>
 <summary>ភាសារដែលកំពុងបកប្រែ:</summary>
 
-- [हिन्दी](https://github.com/jwasham/coding-interview-university/issues/81)
-- [עברית](https://github.com/jwasham/coding-interview-university/issues/82)
-- [Bahasa Indonesia](https://github.com/jwasham/coding-interview-university/issues/101)
+- [Afrikaans](https://github.com/jwasham/coding-interview-university/issues/1164)
 - [Arabic](https://github.com/jwasham/coding-interview-university/issues/98)
-- [Turkish](https://github.com/jwasham/coding-interview-university/issues/90)
 - [French](https://github.com/jwasham/coding-interview-university/issues/89)
-- [Russian](https://github.com/jwasham/coding-interview-university/issues/87)
-- [Ukrainian](https://github.com/jwasham/coding-interview-university/issues/106)
-- [Korean(한국어)](https://github.com/jwasham/coding-interview-university/issues/118)
-- [Telugu](https://github.com/jwasham/coding-interview-university/issues/117)
-- [Urdu](https://github.com/jwasham/coding-interview-university/issues/140)
-- [Thai](https://github.com/jwasham/coding-interview-university/issues/156)
 - [Greek](https://github.com/jwasham/coding-interview-university/issues/166)
+- [Italian](https://github.com/jwasham/coding-interview-university/issues/1030)
+- [Korean(한국어)](https://github.com/jwasham/coding-interview-university/issues/118)
 - [Malayalam](https://github.com/jwasham/coding-interview-university/issues/239)
-- [Japanese (日本語)](https://github.com/jwasham/coding-interview-university/issues/257)
-
+- [Persian - Farsi](https://github.com/jwasham/coding-interview-university/issues/186)
+- [Telugu](https://github.com/jwasham/coding-interview-university/issues/117)
+- [Thai](https://github.com/jwasham/coding-interview-university/issues/156)
+- [Turkish](https://github.com/jwasham/coding-interview-university/issues/90)
+- [Українська](https://github.com/jwasham/coding-interview-university/issues/106)
+- [עברית](https://github.com/jwasham/coding-interview-university/issues/82)
+- [हिन्दी](https://github.com/jwasham/coding-interview-university/issues/81)
 </details>
 
-<div align="center">
-	<hr />
-    <p>
-        <a href="https://github.com/sponsors/jwasham"><strong>Become a sponsor</strong> and support Coding Interview University!</a>
-    </p>
-    <hr />
-</div>
 
 ---
 
@@ -496,7 +496,7 @@ Data Structure ទាំងអស់ដែលខ្ញុំធ្លាប់�
     - [ភាពស្មុគស្មាញនៃការគណនា៖ ផ្នែកទី ១](https://www.topcoder.com/community/competitive-programming/tutorials/computational-complexity-section-1/)
     - [ភាពស្មុគស្មាញនៃការគណនា៖ ផ្នែកទី ២](https://www.topcoder.com/community/competitive-programming/tutorials/computational-complexity-section-2/)
 - [ ] [សន្លឹកជំនួយ](http://bigocheatsheet.com/)
-- [ ] [[Review] Big-O notation in 5 minutes (video)](https://youtu.be/__vX2sjlpXU)
+- [ ] [[Review] Analyzing Algorithms (playlist) in 18 minutes (video)](https://www.youtube.com/playlist?list=PL9xmBV_5YoZMxejjIyFHWa-4nKg6sdoIv)
 
 ---
 
@@ -1266,7 +1266,7 @@ Graphs អាចត្រូវបានប្រើដើម្បីបង្�
 
 - [ ] Series of 2-3 minutes short subject videos (23 វីដេអូ)
     - [វីដេអូ](https://www.youtube.com/watch?v=r4r1DZcx1cM&list=PLmVb1OknmNJuC5POdcDv5oCS7_OUkDgpj&index=22)
-- [ ] Series of 2-5 minutes short subject videos - Michael Sambol (46 វីដេអូ):
+- [ ] Series of 2-5 minutes short subject videos - Michael Sambol (48 វីដេអូ):
     - [វីដេអូ](https://www.youtube.com/@MichaelSambol)
     - [Code Examples](https://github.com/msambol/dsa)
 - [ ] [វីដេអូ Sedgewick - Algorithms I](https://www.coursera.org/learn/algorithms-part1)

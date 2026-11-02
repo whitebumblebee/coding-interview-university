@@ -9,13 +9,6 @@
 >
 > **祝你好运!**
 
-<div align="center">
-	<hr />
-    <p>
-        <a href="https://github.com/sponsors/jwasham"><strong>成为赞助商</strong> 并支持编程大学！</a>
-    </p>
-    <hr />
-</div>
 
 ## 这是？
 
@@ -262,6 +255,7 @@
 - [Codewars](http://www.codewars.com)
 - [HackerEarth](https://www.hackerearth.com/for-developers/)
 - [Scaler Topics (Java, C++)](https://www.scaler.com/topics/)
+- [Programiz PRO Community Challenges)](https://programiz.pro/)
 
 ### 对于你的编程面试
 
@@ -406,14 +400,14 @@
 
 一旦你学完一个主题，并且对它有了一定的掌握，比如 **链表（linked lists）**:
 1. 打开其中一本[编程面试书籍](#interview-prep-books)（或下方列出的编程问题网站之一）。
-1. 关于链表的问题，请提出2或3个。
+1. 请先做2或3个关于链表的问题。
 1. 继续学习下一个主题。
 1. 稍后，回来再做另外2或3个链表问题。
 1. 使用这种方法来学习每个新主题。
 
 **在学习这些内容的过程中不断做问题，而不是之后。**
 
-你被雇佣的不是因为你的知识，而是因为你如何应用这些知识。
+你被雇佣的不是因为你的知识，而是因为你知道如何应用这些知识。
 
 下面列出了许多资源供你参考。继续前进吧。
 
@@ -525,7 +519,7 @@
     - [计算复杂性：第1部分](https://www.topcoder.com/thrive/articles/Computational%20Complexity%20part%20one)
     - [计算复杂性：第2部分](https://www.topcoder.com/thrive/articles/Computational%20Complexity%20part%20two)
 - [ ] [速查表](http://bigocheatsheet.com/)
-- [ ] [[复习] 5分钟内了解大O符号（视频）](https://youtu.be/__vX2sjlpXU)
+- [ ] [[回顾] 在 18 分钟内分析算法（播放列表）（视频）](https://www.youtube.com/playlist?list=PL9xmBV_5YoZMxejjIyFHWa-4nKg6sdoIv)
 
 好吧，差不多就到这里了。
 
@@ -1154,7 +1148,7 @@
 
 - [ ] 一系列2-3分钟的短主题视频（共23个视频）
     - [视频链接](https://www.youtube.com/watch?v=r4r1DZcx1cM&list=PLmVb1OknmNJuC5POdcDv5oCS7_OUkDgpj&index=22)
-- [ ] 一系列2-5分钟的短主题视频 - Michael Sambol（共46个视频）：
+- [ ] 一系列2-5分钟的短主题视频 - Michael Sambol（共48个视频）：
     - [视频链接](https://www.youtube.com/@MichaelSambol)
     - [代码示例](https://github.com/msambol/dsa)
 - [ ] [Sedgewick的算法课程视频 - 算法I](https://www.coursera.org/learn/algorithms-part1)
@@ -1201,6 +1195,7 @@
 - [interviewing.io：与资深工程师进行模拟面试 ](https://interviewing.io) - 匿名算法/系统设计面试，与FAANG公司的资深工程师进行。
 - [Meetapro：与顶级FAANG面试官进行模拟面试 ](https://meetapro.com/?utm_source=ciu) - 类似Airbnb的模拟面试/指导平台。
 - [Hello Interview：与专家教练和人工智能模拟面试](https://www.hellointerview.com/?utm_source=ciu) - 直接与人工智能或 FAANG 员工工程师和经理面试。
+- [Codemia：通过人工智能或社区解决方案和反馈来练习系统设计问题](https://codemia.io/?utm_source=ciu) - 通过AI练习工具来解决系统设计问题。与社区分享你的解决方案，以获得反馈。.
   
 ## 当面试来临的时候
 

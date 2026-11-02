@@ -16,46 +16,42 @@
 <details>
 <summary>Translations:</summary>
 
-- [中文版本](translations/README-cn.md)
-- [Tiếng Việt - Vietnamca](translations/README-vi.md)
-- [İspanyolca](translations/README-es.md)
-- [Brezilya Portekizcesi](translations/README-ptbr.md)
-- [Lehçe](translations/README-pl.md)
-- [繁體中文](translations/README-tw.md)
-- [Japonca (日本語)](translations/README-ja.md)
-- [Rusça](translations/README-ru.md)
-- [Almanca](translations/README-de.md)
 - [Bahasa Indonesia](translations/README-id.md)
-- [ខ្មែរ - Kmer](translations/README-kh.md)
-- [Özbekçe](translations/README-uz.md)
-
+- [Bulgarian](translations/README-bg.md)
+- [Español](translations/README-es.md)
+- [German](translations/README-de.md)
+- [Japanese (日本語)](translations/README-ja.md)
+- [Polish](translations/README-pl.md)
+- [Português Brasileiro](translations/README-ptbr.md)
+- [Russian](translations/README-ru.md)
+- [Tiếng Việt - Vietnamese](translations/README-vi.md)
+- [Urdu - اردو](tanslations/README-ur.md)
+- [Uzbek](translations/README-uz.md)
+- [বাংলা - Bangla](translations/README-bn.md)
+- [ខ្មែរ - Khmer](translations/README-kh.md)
+- [简体中文](translations/README-cn.md)
+- [繁體中文](translations/README-tw.md)
 </details>
 
 <details>
 <summary>Translations in progress:</summary>
 
-- [हिन्दी](https://github.com/jwasham/coding-interview-university/issues/81)
-- [עברית](https://github.com/jwasham/coding-interview-university/issues/82)
-- [Arapça](https://github.com/jwasham/coding-interview-university/issues/98)
-- [Türkçe](https://github.com/jwasham/coding-interview-university/issues/90)
-- [Fransızca](https://github.com/jwasham/coding-interview-university/issues/89)
-- [Українська](https://github.com/jwasham/coding-interview-university/issues/106)
+- [Afrikaans](https://github.com/jwasham/coding-interview-university/issues/1164)
+- [Arabic](https://github.com/jwasham/coding-interview-university/issues/98)
+- [French](https://github.com/jwasham/coding-interview-university/issues/89)
+- [Greek](https://github.com/jwasham/coding-interview-university/issues/166)
+- [Italian](https://github.com/jwasham/coding-interview-university/issues/1030)
 - [Korean(한국어)](https://github.com/jwasham/coding-interview-university/issues/118)
-- [Telugu](https://github.com/jwasham/coding-interview-university/issues/117)
-- [Urdu](https://github.com/jwasham/coding-interview-university/issues/519)
-- [Thai](https://github.com/jwasham/coding-interview-university/issues/156)
-- [Yunanca](https://github.com/jwasham/coding-interview-university/issues/166)
 - [Malayalam](https://github.com/jwasham/coding-interview-university/issues/239)
-
+- [Persian - Farsi](https://github.com/jwasham/coding-interview-university/issues/186)
+- [Telugu](https://github.com/jwasham/coding-interview-university/issues/117)
+- [Thai](https://github.com/jwasham/coding-interview-university/issues/156)
+- [Turkish](https://github.com/jwasham/coding-interview-university/issues/90)
+- [Українська](https://github.com/jwasham/coding-interview-university/issues/106)
+- [עברית](https://github.com/jwasham/coding-interview-university/issues/82)
+- [हिन्दी](https://github.com/jwasham/coding-interview-university/issues/81)
 </details>
 
-<div align="center">
-	<hr />
-    <p>
-        <a href="https://github.com/sponsors/jwasham"><strong>Become a sponsor</strong> and support Coding Interview University!</a>
-    </p>
-    <hr />
-</div>
 
 ## Nedir?
 
@@ -510,7 +506,7 @@ Kodları beyaz tahtaya ya da kağıda yazın, bilgisayara değil. Örnek girdile
     - [Computational Complexity: Section 1](https://www.topcoder.com/community/competitive-programming/tutorials/computational-complexity-section-1/)
     - [Computational Complexity: Section 2](https://www.topcoder.com/community/competitive-programming/tutorials/computational-complexity-section-2/)
 - [ ] [Cheat sheet](http://bigocheatsheet.com/)
-- [ ] [[Review] Big-O notation in 5 minutes (video)](https://youtu.be/__vX2sjlpXU)
+- [ ] [[Review] Analyzing Algorithms (playlist) in 18 minutes (video)](https://www.youtube.com/playlist?list=PL9xmBV_5YoZMxejjIyFHWa-4nKg6sdoIv)
 
 ## Veri Yapıları
 
@@ -1254,7 +1250,7 @@ Graflar, bilgisayar bilimlerinde birçok sorunu temsil etmek için kullanılabil
 
 - [ ] Series of 2-3 minutes short subject videos (23 videos)
     - [Videos](https://www.youtube.com/watch?v=r4r1DZcx1cM&list=PLmVb1OknmNJuC5POdcDv5oCS7_OUkDgpj&index=22)
-- [ ] Series of 2-5 minutes short subject videos - Michael Sambol (46 videos):
+- [ ] Series of 2-5 minutes short subject videos - Michael Sambol (48 videos):
     - [Videos](https://www.youtube.com/@MichaelSambol)
     - [Code Examples](https://github.com/msambol/dsa)
 - [ ] [Sedgewick Videos - Algorithms I](https://www.coursera.org/learn/algorithms-part1)
@@ -1390,20 +1386,20 @@ Have a story, not just data, about something you accomplished.
 - [General Interview Questions and their Answers](https://ayedot.com/119/MiniBlog/General-Interview-Questions-and-their-Answers-for-Tech-Jobs)
 
 
-## Have questions for the interviewer
+## Mülakatı yapan kişiye muhakkak sorularınız olsun
 
-    Some of mine (I already may know answer to but want their opinion or team perspective):
+    Benim bazı sorularım (cevabını bilsem de onların görüşünü veya takımın bakış açısını isteyebilirim):
 
-- How large is your team?
-- What does your dev cycle look like? Do you do waterfall/sprints/agile?
-- Are rushes to deadlines common? Or is there flexibility?
-- How are decisions made in your team?
-- How many meetings do you have per week?
-- Do you feel your work environment helps you concentrate?
-- What are you working on?
-- What do you like about it?
-- What is the work life like?
-- How is work/life balance?
+- Takımınız kaç kişi?
+- Geliştirici döngüsü nasıl? Waterfall/sprints/agile olarak mı çalışıyorsunuz?
+- Teslim tarihlerine yetişmeye çalışma yaygın mıdır? Yoksa esneklik mevcut mu?
+- Takımınızda kararlar nasıl verilir? 
+- Haftada kaç toplantınız oluyor?
+- İş ortamınız odaklanmanıza yardımcı oluyor mu?
+- Neyin üzerinde çalışıyorsunuz?
+- İşinizle ilgili neyi seviyorsunuz?
+- İş hayatı nasıldır?
+- İş yaşam dengesi nasıldır?
 
 
 ## Once You've Got The Job

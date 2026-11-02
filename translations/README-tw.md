@@ -1,63 +1,55 @@
 # Coding Interview University
 
 > 原先我為了成為一個軟體工程師而建立這份簡單的讀書主題清單(To-do list)，
-> 但這份To-do list隨著時間而膨脹成這個樣子。 [做完這份To-do list上的每個目標後，我成為了Amazon的工程師](https://startupnextdoor.com/ive-been-acquired-by-amazon/?src=ciu)!
+> 但這份To-do list儼然隨著時間成為了一個很長的清單。 [做完這份To-do list上的每個目標後，我成為了Amazon的工程師](https://startupnextdoor.com/ive-been-acquired-by-amazon/?src=ciu)!
 > 你或許不需要像我讀一樣多。但是，每個讓你成為一位稱職工程師所需要的知識都在這裡了。
 >
 > 我每天讀8~12小時的書，這樣持續了好幾個月。這是我的故事:[為什麼我為了Google面試而讀了8個月](https://medium.freecodecamp.org/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13)
 >
 > 在這份To-do list內的主題會讓你擁有足夠的知識去面對幾乎每家軟體公司的專業面試，
-> 這些公司包含了科技巨獸，例如Amazon、Facebook、Google，或者是Microsoft。
+> 這些公司包含了諸多科技巨獸，例如Amazon、Facebook、Google，或者是Microsoft。
 >
 > *祝你好運!*
 
 <details>
 <summary>翻譯:</summary>
 
-- [中文版本](README-cn.md)
-- [Tiếng Việt - Vietnamese](README-vi.md)
-- [Español](README-es.md)
-- [Português Brasileiro](README-ptbr.md)
-- [Polish](README-pl.md)
-- [繁體中文](README-tw.md)
-- [Japanese (日本語)](README-ja.md)
-- [Russian](README-ru.md)
-- [German](README-de.md)
-- [Bahasa Indonesia](README-id.md)
-- [ខ្មែរ - Khmer](README-kh.md)
-- [Uzbek](README-uz.md)
-- [Bulgarian](README-bg.md)
-- [বাংলা - Bangla](README-bn.md)
-
+- [Bahasa Indonesia](translations/README-id.md)
+- [Bulgarian](translations/README-bg.md)
+- [Español](translations/README-es.md)
+- [German](translations/README-de.md)
+- [Japanese (日本語)](translations/README-ja.md)
+- [Polish](translations/README-pl.md)
+- [Português Brasileiro](translations/README-ptbr.md)
+- [Russian](translations/README-ru.md)
+- [Tiếng Việt - Vietnamese](translations/README-vi.md)
+- [Urdu - اردو](tanslations/README-ur.md)
+- [Uzbek](translations/README-uz.md)
+- [বাংলা - Bangla](translations/README-bn.md)
+- [ខ្មែរ - Khmer](translations/README-kh.md)
+- [简体中文](translations/README-cn.md)
+- [繁體中文](translations/README-tw.md)
 </details>
 
 <details>
 <summary>正在翻譯的項目:</summary>
 
-- [हिन्दी](https://github.com/jwasham/coding-interview-university/issues/81)
-- [עברית](https://github.com/jwasham/coding-interview-university/issues/82)
+- [Afrikaans](https://github.com/jwasham/coding-interview-university/issues/1164)
 - [Arabic](https://github.com/jwasham/coding-interview-university/issues/98)
-- [Turkish](https://github.com/jwasham/coding-interview-university/issues/90)
 - [French](https://github.com/jwasham/coding-interview-university/issues/89)
-- [Українська](https://github.com/jwasham/coding-interview-university/issues/106)
-- [Korean(한국어)](https://github.com/jwasham/coding-interview-university/issues/118)
-- [Telugu](https://github.com/jwasham/coding-interview-university/issues/117)
-- [Urdu](https://github.com/jwasham/coding-interview-university/issues/519)
-- [Thai](https://github.com/jwasham/coding-interview-university/issues/156)
 - [Greek](https://github.com/jwasham/coding-interview-university/issues/166)
+- [Italian](https://github.com/jwasham/coding-interview-university/issues/1030)
+- [Korean(한국어)](https://github.com/jwasham/coding-interview-university/issues/118)
 - [Malayalam](https://github.com/jwasham/coding-interview-university/issues/239)
 - [Persian - Farsi](https://github.com/jwasham/coding-interview-university/issues/186)
-- [Afrikaans](https://github.com/jwasham/coding-interview-university/issues/1164)
-
+- [Telugu](https://github.com/jwasham/coding-interview-university/issues/117)
+- [Thai](https://github.com/jwasham/coding-interview-university/issues/156)
+- [Turkish](https://github.com/jwasham/coding-interview-university/issues/90)
+- [Українська](https://github.com/jwasham/coding-interview-university/issues/106)
+- [עברית](https://github.com/jwasham/coding-interview-university/issues/82)
+- [हिन्दी](https://github.com/jwasham/coding-interview-university/issues/81)
 </details>
 
-<div align="center">
-	<hr />
-    <p>
-        <a href="https://github.com/sponsors/jwasham"><strong>Become a sponsor</strong> and support Coding Interview University!</a>
-    </p>
-    <hr />
-</div>
 
 ## What is it?
 
@@ -482,7 +474,7 @@
     - [Computational Complexity: Section 1](https://www.topcoder.com/community/competitive-programming/tutorials/computational-complexity-section-1/)
     - [Computational Complexity: Section 2](https://www.topcoder.com/community/competitive-programming/tutorials/computational-complexity-section-2/)
 - [ ] [Cheat sheet](http://bigocheatsheet.com/)
-- [ ] [[Review] Big-O notation in 5 minutes (video)](https://youtu.be/__vX2sjlpXU)
+- [ ] [[Review] Analyzing Algorithms (playlist) in 18 minutes (video)](https://www.youtube.com/playlist?list=PL9xmBV_5YoZMxejjIyFHWa-4nKg6sdoIv)
 
 ## 資料結構
 - ### 陣列
@@ -1232,7 +1224,7 @@
 
 - [ ] 2-3分鐘快速複習影片系列(23個影片)
     - [影片](https://www.youtube.com/watch?v=r4r1DZcx1cM&list=PLmVb1OknmNJuC5POdcDv5oCS7_OUkDgpj&index=22)
-- [ ] 2-5分鐘快速複習影片系列-Michael Sambol (46個影片)
+- [ ] 2-5分鐘快速複習影片系列-Michael Sambol (48個影片)
     - [影片](https://www.youtube.com/@MichaelSambol)
     - [Code Examples](https://github.com/msambol/dsa)
 - [ ] [Sedgewick Videos - Algorithms I](https://www.coursera.org/learn/algorithms-part1)

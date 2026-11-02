@@ -1,19 +1,18 @@
-# الإعداد لمقابلة البرمجة
+# جامعة المقابلات البرمجية
 
 <div align="right">
   
-> لقد قمت بأنشاء هذا في الأصل كلائحة صغيرة تحتوي على مواضيع دراسية الغرض من دراستها ان أصبح مهندس برامجيات،
-> لكنها توسعت الى قائمة كبيرة التي تراها اليوم. بعد ان قمتُ بدراسة لائحة المواضيع هذه وحسب الخطة، [حصلت على عمل كمهندس برامجيات في شركة امازون](https://startupnextdoor.com/ive-been-acquired-by-amazon/?src=ciu)
+> لقد قمت بإنشاء هذا المشروع في الأصل كلائحة صغيرة تحتوي على مواضيع دراسية الغرض من دراستها أن أصبح مهندس برمجيات،
+> لكنها توسعت إلى قائمة كبيرة كالتي تراها اليوم. بعد أن قمتُ بدراسة هذه الخطة الدراسية [حصلت على عمل كمهندس برمجيات في شركة أمازون](https://startupnextdoor.com/ive-been-acquired-by-amazon/?src=ciu)
 >! على الأغلب لن تحتاج إلى ان تدرس بالقدر الذي درسته أنا. لكن على كل حال كل ما تحتاج إليه موجود هنا.
 >
->درستُ لمدة ٨-١٢ ساعة في اليوم, لعدة أشهر. هذه هي قصتي: [لماذا كرستُ كل وقتي لمدة ثمانية أشهر من أجل مقابلة لدا قوقل](https://medium.freecodecamp.org/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13)
+>درستُ لمدة ٨-١٢ ساعة خلال اليوم الواحد, لعدة أشهر. هذه هي قصتي: [لماذا كرستُ كل وقتي لمدة ثمانية أشهر من أجل مقابلة لدا قوقل](https://medium.freecodecamp.org/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13)
 >
-> **ملاحظة:** لن تحتاج للدراسة بقدر ما فعلت انا، لقد اهدرت المزيد من الوقت والجهد على مواضيع لم اكن بحاجة الى معرفتها، مزيد حول ذلك ادناه، سوف اساعدك بالوصول الى هناك دون اضاعة وقتك الثمين.
+> **ملاحظة:** لن تحتاج للدراسة بقدر ما فعلت أنا، لقد اهدرت المزيد من الوقت والجهد على مواضيع لم أكن بحاجة إلى معرفتها، مزيد حول ذلك أدناه، سوف أساعدك بالوصول إلى هناك دون إضاعة وقتك الثمين.
 >
-> المواضيع المدرجة في هذه اللائحة ستجهزك جيدا لاجراء مقابلة تقنية مع اي شركة برمجية تقريبا، حتى الشركات العملاقة: أمازون، فيسبوك، قوقل، وميكروسوفت.
+> المواضيع المدرجة في هذه اللائحة ستجهزك جيدا لإجراء مقابلة تقنية مع أي شركة برمجية تقريبا، حتى الشركات العملاقة: أمازون، فيسبوك، قوقل، ومايكروسوفت.
 >
->بالتوفيق.
->
+>حظاً موفقاً
 
 </div>
 
@@ -22,58 +21,58 @@
 <details dir="rtl">
 <summary>الترجمات:</summary>
 
-- [中文版本](translations/README-cn.md)
-- [Tiếng Việt - الفيتنامبة](translations/README-vi.md)
-- [الإسبانية](translations/README-es.md)
-- [(البرتغالية (البرازيلية](translations/README-ptbr.md)
-- [البولندية](translations/README-pl.md)
+- [Bahasa Indonesia](translations/README-id.md)
+- [Bulgarian](translations/README-bg.md)
+- [Español](translations/README-es.md)
+- [German](translations/README-de.md)
+- [Japanese (日本語)](translations/README-ja.md)
+- [Polish](translations/README-pl.md)
+- [Português Brasileiro](translations/README-ptbr.md)
+- [Russian](translations/README-ru.md)
+- [Tiếng Việt - Vietnamese](translations/README-vi.md)
+- [Urdu - اردو](tanslations/README-ur.md)
+- [Uzbek](translations/README-uz.md)
+- [বাংলা - Bangla](translations/README-bn.md)
+- [ខ្មែរ - Khmer](translations/README-kh.md)
+- [简体中文](translations/README-cn.md)
 - [繁體中文](translations/README-tw.md)
-- [اليابانية (日本語)](translations/README-ja.md)
-- [الروسية](translations/README-ru.md)
-
 </details>
 
 <details dir="rtl">
 <summary>ترجمات تحت الإعداد:</summary>
 
-- [हिन्दी](https://github.com/jwasham/coding-interview-university/issues/81)
-- [עברית](https://github.com/jwasham/coding-interview-university/issues/82)
-- [الإندونيسية](https://github.com/jwasham/coding-interview-university/issues/101)
-- [العربية](https://github.com/jwasham/coding-interview-university/issues/98)
-- [التركية](https://github.com/jwasham/coding-interview-university/issues/90)
-- [الفرنسية](https://github.com/jwasham/coding-interview-university/issues/89)
-- [الأكرانية](https://github.com/jwasham/coding-interview-university/issues/106)
-- [الكورية(한국어)](https://github.com/jwasham/coding-interview-university/issues/118)
-- [Telugu](https://github.com/jwasham/coding-interview-university/issues/117)
-- [أردو](https://github.com/jwasham/coding-interview-university/issues/140)
-- [التايلندية](https://github.com/jwasham/coding-interview-university/issues/156)
-- [اليونانية](https://github.com/jwasham/coding-interview-university/issues/166)
+- [Afrikaans](https://github.com/jwasham/coding-interview-university/issues/1164)
+- [Arabic](https://github.com/jwasham/coding-interview-university/issues/98)
+- [French](https://github.com/jwasham/coding-interview-university/issues/89)
+- [Greek](https://github.com/jwasham/coding-interview-university/issues/166)
+- [Italian](https://github.com/jwasham/coding-interview-university/issues/1030)
+- [Korean(한국어)](https://github.com/jwasham/coding-interview-university/issues/118)
 - [Malayalam](https://github.com/jwasham/coding-interview-university/issues/239)
-
+- [Persian - Farsi](https://github.com/jwasham/coding-interview-university/issues/186)
+- [Telugu](https://github.com/jwasham/coding-interview-university/issues/117)
+- [Thai](https://github.com/jwasham/coding-interview-university/issues/156)
+- [Turkish](https://github.com/jwasham/coding-interview-university/issues/90)
+- [Українська](https://github.com/jwasham/coding-interview-university/issues/106)
+- [עברית](https://github.com/jwasham/coding-interview-university/issues/82)
+- [हिन्दी](https://github.com/jwasham/coding-interview-university/issues/81)
 </details>
 
 <hr />
 
-<div align="center">
-    <p>
-        <a href="https://github.com/sponsors/jwasham"><strong>Become a sponsor</strong> and support Coding Interview University!</a>
-    </p>
-    <hr />
-</div>
 
-## ما هذا!
+## ما هذا؟
 <p align="center">
   <img alt="Coding at the whiteboard - from HBO's Silicon Valley" src="https://d3j2pkmjtin6ou.cloudfront.net/coding-at-the-whiteboard-silicon-valley.png">
 </p>
 
-هذه خطتي الدراسية التي تستغرق عدة اشهر من اجل ان اصبح مهندس برامجيات في شركة عملاقة.
+هذه خطتي الدراسية التي تستغرق عدة أشهر من أجل أن أصبح مهندس برامجيات في شركة عملاقة.
 
 **المتطلبات:**
 * خبرة قليلة في البرمجة (المتغيرات، التكرارات، الدوال، الخ).
 * صبر.
 * وقت.
 
-ملاحظة: هذه الخطة الدراسية هي من اجل ان تصبح مهندس برامجيات وليس من اجل ان تصبح مطور تطبيقات للويب. كبرى الشركات التقنية مثل كوكل، امازون، مايكروسوفت، فيسبوك ينظرون الى مهندس البرامجيات بنظرة مختلفة عن مطور البرامجيات/الويب، على سبيل المثال شركة امازون لديها مهندس الواجهات (Frontend Engineers) ولديها مهندس تطوير برامجيات (Software Development Engineers) ولكل منها دور مختلف والمقابلة التقنية لكل منها مختلفة تماما، لكن بصورة عام تتطلب هذه الشركات معرفة بعلوم الحاسوب للمتقدمين لشغل ادوار تخص تطوير البرامجيات او هندسة البرامجيات.
+ملاحظة: هذه الخطة الدراسية هي من أجل أن تصبح مهندس برامجيات وليس من أجل أن تصبح مطور تطبيقات للويب. كبرى الشركات التقنية مثل قوقل، أمازون، مايكروسوفت، فيسبوك ينظرون إلى مهندس البرمجيات بنظرة مختلفة عن مطور البرمجيات/الويب، على سبيل المثال شركة أمازون لديها مهندس الواجهات (Frontend Engineers) ولديها مهندس تطوير برامجيات (Software Development Engineers) ولكل منها دور مختلف والمقابلة التقنية لكل منها مختلفة تماما، لكن بصورة عامة تتطلب هذه الشركات معرفة بعلوم الحاسب للمتقدمين لشغل أدوار تخص تطوير البرمجيات أو هندسة البرمجيات.
 
 <hr />
 
@@ -201,7 +200,7 @@
 	
 ## لماذا استخدم هذه الخطة الدراسية؟
 
-أقوم بمتابعة هذه الخطة لتحضير إلى المقابلة الشخصية بجوجل. لقد قمت بناء مواقع ويب، وتقديم خدمات ذات صلة، وبناء شركات ناشئة منذ 1997. لدي درجة علمية في الاقتصاد، وليس في علوم الحاسب. أنا شخص ناجح في مجال عملي، ولكنني أريد أن أعمل بجوجل. أريد أن أعمل على أنظمة كبيرة والحصول على فهم كبير في أنظمة الحاسوب، كفاءة الخوارزميات، كقاءة الهياكل البيانية، اللغات الأقرب إلى الآلة وكيفية عملها. وإذ لم تعرف أين منها لن تعينك جوجل.
+أقوم بمتابعة هذه الخطة لتحضير إلى المقابلة الشخصية بقوقل. لقد قمت بناء مواقع إلكترونية، وتقديم خدمات ذات صلة، وبناء شركات ناشئة منذ 1997. لدي درجة علمية في الاقتصاد، وليس في علوم الحاسب. أنا شخص ناجح في مجال عملي، ولكنني أريد أن أعمل بقوقل. أريد أن أعمل على أنظمة كبيرة والحصول على فهم كبير في أنظمة الحاسب، كفاءة الخوارزميات، كفاءة الهياكل البيانية، اللغات الأقرب إلى الآلة وكيفية عملها. وإذا لم تعرف أين منها لن تعينك قوقل.
 
 عندما بدأت هذا المشروع، لم أكن أعرف الإستاك "stack" من الهيب "heap"، ولم أكن أعرف المعامل الأعلى في قياس كفاءة الخوارزميات "Big-O"، ولا عن التري "tree"، أو عن زيارة الجراف "graph".
 إذا كان عليا أن أصنع برنامج عن الترتيب، سأخبرك أنه ليس على درجة عالية من الكقاءة.
@@ -215,7 +214,7 @@
 سأستخدم خاصية تعليم ماأنجز من الجيت هب "Github" لمتابعة التقدم.
 
 
-**اصنع مسار جديد يمكن من خلاله أن تضع علامة [x]**
+**أصنع مسار جديد يمكن من خلاله أن تضع علامة [x]**
  احصل على نسخة خاصة "fork" بك واتبع هذه الأوامر
 1- Clone to your local repo
  ```
@@ -525,7 +524,7 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
     - [Computational Complexity: Section 1](https://www.topcoder.com/community/competitive-programming/tutorials/computational-complexity-section-1/)
     - [Computational Complexity: Section 2](https://www.topcoder.com/community/competitive-programming/tutorials/computational-complexity-section-2/)
 - [ ] [Cheat sheet](http://bigocheatsheet.com/)
-- [ ] [[Review] Big-O notation in 5 minutes (video)](https://youtu.be/__vX2sjlpXU)
+- [ ] [[Review] Analyzing Algorithms (playlist) in 18 minutes (video)](https://www.youtube.com/playlist?list=PL9xmBV_5YoZMxejjIyFHWa-4nKg6sdoIv)
 
 ## Data Structures
 
@@ -1277,7 +1276,7 @@ Graphs can be used to represent many problems in computer science, so this secti
 
 - [ ] Series of 2-3 minutes short subject videos (23 videos)
     - [Videos](https://www.youtube.com/watch?v=r4r1DZcx1cM&list=PLmVb1OknmNJuC5POdcDv5oCS7_OUkDgpj&index=22)
-- [ ] Series of 2-5 minutes short subject videos - Michael Sambol (46 videos):
+- [ ] Series of 2-5 minutes short subject videos - Michael Sambol (48 videos):
     - [Videos](https://www.youtube.com/@MichaelSambol)
     - [Code Examples](https://github.com/msambol/dsa)
 - [ ] [Sedgewick Videos - Algorithms I](https://www.coursera.org/learn/algorithms-part1)
